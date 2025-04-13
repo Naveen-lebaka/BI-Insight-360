@@ -86,7 +86,9 @@
 ---
 
 ## 📦 View the Report
-🔗 [**Click here to download the PBIX file**](https://app.powerbi.com/view?r=eyJrIjoiNTcyOTc2YzAtZjgxZC00ODExLWEzYjMtMzczOTg0NmI0ZTRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=3a20af4cbd4440d63e02)  
+🔗 [**Click here to download the PBIX file**](https://app.powerbi.com/view?r=eyJrIjoiNTcyOTc2YzAtZjgxZC00ODExLWEzYjMtMzczOTg0NmI0ZTRiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=3a20af4cbd4440d63e02) 
+
+- 💼 LinkedIn: [your-profile-link](https://www.linkedin.com/in/naveen-kumar-lebaka-868284267)
 ---
 
 ## 🚀 How to Use
